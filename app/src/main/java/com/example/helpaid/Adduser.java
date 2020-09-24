@@ -33,6 +33,7 @@ public class Adduser {
     }
 
     public void setPass(String pass) {
+        Log.D("tag","display")
         Pass = pass;
     }
 
